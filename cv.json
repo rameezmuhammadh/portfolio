@@ -430,6 +430,7 @@
         "position": "container",
         "dark": "/team-comrade.png"
       },
+      "github": "",
       "isActive": true,
       "description": "A state-of-the-art tuition management system designed to streamline operations for both administrators and institutes, ensuring efficient student enrollment, attendance tracking, and financial accuracy.",
       "highlights": [
@@ -464,7 +465,7 @@
         "position": "container",
         "dark": "/bilbook.png"
       },
-      "isActive": true,
+      "isActive": false,
       "description": "A feature-rich WordPress website tailored for a POS SaaS product, focusing on intuitive design, high performance, and seamless user interaction.",
       "highlights": [
         "Designed and developed a WordPress website for a POS SaaS product, prioritizing UI/UX, performance, and SEO optimization.",
@@ -481,7 +482,7 @@
         "position": "container",
         "dark": "/itstarter.png"
       },
-      "isActive": true,
+      "isActive": false,
       "description": "An SEO-optimized, visually appealing WordPress website showcasing cutting-edge design and functionality, tailored to enhance engagement and boost business growth.",
       "highlights": [
         "Developed theme-based WordPress websites, focusing on UI/UX enhancements, performance optimization, and SEO.",
@@ -497,7 +498,7 @@
         "position": "container",
         "dark": "/tflanka.png"
       },
-      "isActive": true,
+      "isActive": false,
       "description": "A modernized WordPress website for a Sri Lankan authentic spice export company, crafted to reflect the brand's heritage while optimizing performance and SEO to boost visibility globally.",
       "highlights": [
         "Redesigned the WordPress website for a Sri Lankan authentic spice export company, focusing on performance, aesthetic appeal, and SEO.",
