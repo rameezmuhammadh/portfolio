@@ -1,6 +1,6 @@
 {
   "analyticsCode": "",
-  "pageLayout": "two-column",
+  "pageLayout": "single-column",
   "basics": {
     "name": "Rameez Muhammadh",
     "label": "Full Stack Developer",
@@ -63,15 +63,21 @@
       "url": "https://levelweb.co.uk/",
       "startDate": "2024-11-01",
       "endDate": null,
-      "summary": "Developing high-availability full-stack projects.",
+      "summary": "Led the development of scalable web applications using the RILT stack.",
       "highlights": [
-        "Enhanced internal workflow efficiency by 30%."
+        "Optimized complex MySQL queries, improving database efficiency by 25%.",
+        "Designed and implemented key system features, ensuring high-quality, responsive web application performance.",
+        "Streamlined deployment processes, reducing downtime and enhancing system reliability."
       ],
       "responsibilities": [
-        "Developed and maintained backend services using Node.js and Golang."
+        "Developed and maintained backend services using Node.js and Golang.",
+        "Collaborated closely with the team to meet client requirements and deliver effective, high-performing solutions.",
+        "Integrated modern UI components to enhance user experience across platforms."
       ],
       "achievements": [
-        "Implemented a cloud drive and verification code system."
+        "Implemented a cloud drive and verification code system.",
+        "Enhanced system reliability and reduced downtime by streamlining deployment workflows.",
+        "Improved database performance by refactoring core queries, reducing execution times by 30%."
       ],
       "skills": {
         "PHP": "simple-icons:php",
@@ -95,16 +101,21 @@
       "url": "https://itstarter.cc/",
       "startDate": "2024-04-01",
       "endDate": null,
-      "summary": "Led page design and account systems.",
+      "summary": "Played a key role in the development of RILT-based projects and WordPress customizations.",
       "highlights": [
-        "Completed 95% of project content."
+        "Completed 95% of project content.",
+        "Optimized MySQL queries for enhanced system performance.",
+        "Improved front-end functionality with responsive design techniques."
       ],
       "responsibilities": [
-        "Developed complete pages.",
-        "Integrated user-facing elements with server-side logic."
+        "Developed complete pages and integrated user-facing elements with server-side logic.",
+        "Focused on theme customization and SEO optimization for WordPress projects.",
+        "Collaborated with cross-functional teams to ensure seamless project delivery."
       ],
       "achievements": [
-        "Ensured smooth project execution."
+        "Ensured smooth project execution.",
+        "Delivered high-quality solutions that met and exceeded client expectations.",
+        "Enhanced system scalability, enabling the platform to support increased user demand."
       ],
       "skills": {
         "PHP": "simple-icons:php",
@@ -128,15 +139,18 @@
       "url": "https://levelweb.co.uk/",
       "startDate": "2024-10-30",
       "endDate": "2024-05-01",
-      "summary": "Developing high-availability full-stack projects.",
+      "summary": "Assisted in building responsive web applications using the RILT stack.",
       "highlights": [
-        "Enhanced internal workflow efficiency by 30%."
+        "Enhanced internal workflow efficiency by 30%.",
+        "Gained experience in system design, middleware implementation, and optimizing MySQL queries."
       ],
       "responsibilities": [
-        "Developed and maintained backend services using Node.js and Golang."
+        "Developed and maintained backend services using Node.js and Golang.",
+        "Contributed to front-end feature development using Tailwind CSS and React."
       ],
       "achievements": [
-        "Implemented a cloud drive and verification code system."
+        "Implemented a cloud drive and verification code system.",
+        "Streamlined access control via dynamic middleware design."
       ],
       "skills": {
         "PHP": "simple-icons:php",
@@ -160,16 +174,18 @@
       "url": "https://itstarter.cc/",
       "startDate": "2023-09-01",
       "endDate": "2024-03-31",
-      "summary": "Led page design and account systems.",
+      "summary": "Contributed to web applications and WordPress projects using RILT stack.",
       "highlights": [
-        "Completed 95% of project content."
+        "Completed 95% of project content.",
+        "Worked on SEO optimization resulting in improved website visibility."
       ],
       "responsibilities": [
-        "Developed complete pages.",
-        "Integrated user-facing elements with server-side logic."
+        "Developed complete pages and integrated user-facing elements with server-side logic.",
+        "Enhanced WordPress functionality through custom plugin development."
       ],
       "achievements": [
-        "Ensured smooth project execution."
+        "Ensured smooth project execution.",
+        "Improved user experience by implementing responsive design strategies."
       ],
       "skills": {
         "PHP": "simple-icons:php",
@@ -415,7 +431,7 @@
         "dark": "/team-comrade.png"
       },
       "isActive": true,
-      "description": "A Tuition management system supporting admin and institute-level operations",
+      "description": "A state-of-the-art tuition management system designed to streamline operations for both administrators and institutes, ensuring efficient student enrollment, attendance tracking, and financial accuracy.",
       "highlights": [
         "Contributed to over 45% of the overall development, including designing the home page, implementing student enrolment for 2,500+ students across 6 branches, and automating attendance tracking with RFID cards, reducing  manual tracking efforts by 70%.",
         "Developed a robust Front Office page with comprehensive functionality for system management, including creating invoices, managing users and expenses, marking tutorial sessions, inviting users, transferring funds,marking attendance, and checking student enrolments.",
@@ -432,7 +448,7 @@
         "dark": "/cqhe.png"
       },
       "isActive": true,
-      "description": "Public decryption activity in the form of Puzzle Hunt.",
+      "description": "An advanced IT management system for a UK-based qualification awarding body, enabling seamless onboarding, certification, and real-time notifications with a focus on automation and efficiency.",
       "highlights": [
         "Led the development of a comprehensive IT management system for a UK-based vocational qualification awarding body, including a multi-step onboarding process with middleware for step control, verification, and real-time notifications, reducing manual effort by 65%",
         "Designed customizable certificate templates and implemented automated PDF generation for certificates and World Education Services (WES) applications, reducing manual effort by 60% and enhancing user satisfaction.",
@@ -442,21 +458,21 @@
       "url": "https://app.cqhe.org.uk/"
     },
     {
-      "name": "Transfood Lanka (Pvt) Ltd",
+      "name": "Billbook Website",
       "image": {
-        "url": "/tflanka.png",
+        "url": "/bilbook.png",
         "position": "container",
-        "dark": "/tflanka.png"
+        "dark": "/bilbook.png"
       },
       "isActive": true,
-      "description": "Public decryption activity in the form of Puzzle Hunt.",
+      "description": "A feature-rich WordPress website tailored for a POS SaaS product, focusing on intuitive design, high performance, and seamless user interaction.",
       "highlights": [
-        "Redesigned the WordPress website for a Sri Lankan authentic spice export company, focusing on performance, aesthetic appeal, and SEO.",
-        "Reduced page load time by 35%, enhancing user experience and accessibility.",
-        "Boosted organic traffic by 30% through improved on-site SEO, including optimized content, meta tags, and media.",
-        "Delivered a visually appealing design that reflects the brand’s authenticity and enhances user engagement."
+        "Designed and developed a WordPress website for a POS SaaS product, prioritizing UI/UX, performance, and SEO optimization.",
+        "Achieved a 30% reduction in page load times, enhancing site speed and user experience.",
+        "Improved user engagement by 10% through intuitive and modern UI design tailored to the target audience.",
+        "Increased organic traffic by 15% with effective on-site SEO techniques, including optimized content and meta tags.   - Utilized tools like Elementor and Yoast SEO to customize the theme, ensuring functionality and visibility."
       ],
-      "url": "https://tflanka.com/"
+      "url": "http://billbook.lk/"
     },
     {
       "name": "IT Starter (Pvt) Ltd",
@@ -466,7 +482,7 @@
         "dark": "/itstarter.png"
       },
       "isActive": true,
-      "description": "Public decryption activity in the form of Puzzle Hunt.",
+      "description": "An SEO-optimized, visually appealing WordPress website showcasing cutting-edge design and functionality, tailored to enhance engagement and boost business growth.",
       "highlights": [
         "Developed theme-based WordPress websites, focusing on UI/UX enhancements, performance optimization, and SEO.",
         "Achieved 20% faster load times, 30% improved user engagement, and 35% growth in organic traffic.",
@@ -475,21 +491,21 @@
       "url": "https://itstarter.cc/"
     },
     {
-      "name": "Billbook Website",
+      "name": "Transfood Lanka (Pvt) Ltd",
       "image": {
-        "url": "/bilbook.png",
+        "url": "/tflanka.png",
         "position": "container",
-        "dark": "/bilbook.png"
+        "dark": "/tflanka.png"
       },
       "isActive": true,
-      "description": "Public decryption activity in the form of Puzzle Hunt.",
+      "description": "A modernized WordPress website for a Sri Lankan authentic spice export company, crafted to reflect the brand's heritage while optimizing performance and SEO to boost visibility globally.",
       "highlights": [
-        "Designed and developed a WordPress website for a POS SaaS product, prioritizing UI/UX, performance, and SEO optimization.",
-        "Achieved a 30% reduction in page load times, enhancing site speed and user experience.",
-        "Improved user engagement by 10% through intuitive and modern UI design tailored to the target audience.",
-        "Increased organic traffic by 15% with effective on-site SEO techniques, including optimized content and meta tags.   - Utilized tools like Elementor and Yoast SEO to customize the theme, ensuring functionality and visibility."
+        "Redesigned the WordPress website for a Sri Lankan authentic spice export company, focusing on performance, aesthetic appeal, and SEO.",
+        "Reduced page load time by 35%, enhancing user experience and accessibility.",
+        "Boosted organic traffic by 30% through improved on-site SEO, including optimized content, meta tags, and media.",
+        "Delivered a visually appealing design that reflects the brand’s authenticity and enhances user engagement."
       ],
-      "url": "http://billbook.lk/"
+      "url": "https://tflanka.com/"
     }
   ]
 }
