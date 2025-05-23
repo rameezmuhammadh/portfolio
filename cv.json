@@ -27,6 +27,18 @@
         "icon": "mdi:linkedin",
         "username": "rameezmuhammadh",
         "url": "https://www.linkedin.com/in/rameezmuhammadh/"
+      },
+      {
+        "network": "Phone",
+        "icon": "mdi:phone",
+        "username": "+94763037991",
+        "url": "tel:+94763037991"
+      },
+      {
+        "network": "Whatsapp",
+        "icon": "mdi:whatsapp",
+        "username": "+94763037991",
+        "url": "https://wa.me/94763037991"
       }
     ]
   },
@@ -131,7 +143,7 @@
     },
     {
       "name": "Level Web Limited",
-      "position": "Software Engineer Intern",
+      "position": "Associate Software Engineer",
       "location_type": "On-site",
       "location": "Colombo",
       "url": "https://levelweb.co.uk/",
