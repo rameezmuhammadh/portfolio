@@ -1,510 +1,629 @@
 {
-  "analyticsCode": "",
-  "pageLayout": "single-column",
-  "basics": {
-    "name": "Rameez Muhammadh",
-    "label": "Full Stack Developer",
-    "image": "/avatar.png",
-    "email": "arameez777@gmail.com",
-    "url": "https://www.gcxstudio.cn",
-    "summary": "Results-driven full-stack developer with a year of hands-on experience in Laravel, React, Node.js, Tailwind CSS, and WordPress. Specialize in translating client requirements into scalable solutions while adhering to coding standards and best practices. Excel in full-stack development, ensuring impactful outcomes through meticulous attention to detail. Continuously evolve skills to deliver innovative solutions. Strong communicator with a collaborative mindset, thrive in team environments to drive successful project delivery.",
-    "theme": "blue",
-    "location": {
-      "address": "Colombo",
-      "city": "Western Province",
-      "countryCode": "LK",
-      "region": "Sri Lanka"
+    "analyticsCode": "",
+    "pageLayout": "single-column",
+    "basics": {
+        "name": "Rameez Muhammadh",
+        "label": "Full Stack Developer",
+        "image": "/avatar.png",
+        "email": "arameez777@gmail.com",
+        "url": "https://www.gcxstudio.cn",
+        "summary": "Results-driven Full-Stack Developer with 2+ years of experience building scalable web applications and SaaS platforms using Laravel, React, and modern web technologies. Strong expertise in backend development, API design, and database optimization. Proven ability to deliver high-performance applications, improve system efficiency, and work in fast-paced, client-driven environments.",
+        "theme": "blue",
+        "location": {
+            "address": "Colombo",
+            "city": "Western Province",
+            "countryCode": "LK",
+            "region": "Sri Lanka"
+        },
+        "profiles": [
+            {
+                "network": "GitHub",
+                "icon": "mdi:github",
+                "username": "rameezmuhammadh",
+                "url": "https://github.com/rameezmuhammadh"
+            },
+            {
+                "network": "LinkedIn",
+                "icon": "mdi:linkedin",
+                "username": "rameezmuhammadh",
+                "url": "https://www.linkedin.com/in/rameezmuhammadh/"
+            },
+            {
+                "network": "Phone",
+                "icon": "mdi:phone",
+                "username": "+94763037991",
+                "url": "tel:+94763037991"
+            },
+            {
+                "network": "Whatsapp",
+                "icon": "mdi:whatsapp",
+                "username": "+94763037991",
+                "url": "https://wa.me/94763037991"
+            }
+        ]
     },
-    "profiles": [
-      {
-        "network": "GitHub",
-        "icon": "mdi:github",
-        "username": "rameezmuhammadh",
-        "url": "https://github.com/rameezmuhammadh"
-      },
-      {
-        "network": "LinkedIn",
-        "icon": "mdi:linkedin",
-        "username": "rameezmuhammadh",
-        "url": "https://www.linkedin.com/in/rameezmuhammadh/"
-      },
-      {
-        "network": "Phone",
-        "icon": "mdi:phone",
-        "username": "+94763037991",
-        "url": "tel:+94763037991"
-      },
-      {
-        "network": "Whatsapp",
-        "icon": "mdi:whatsapp",
-        "username": "+94763037991",
-        "url": "https://wa.me/94763037991"
-      }
+    "education": [
+        {
+            "institution": "University of Moratuwa",
+            "url": "https://uom.lk/",
+            "area": "Bachelor of Information Technology",
+            "studyType": "BIT",
+            "startDate": "2025-07-01",
+            "endDate": null
+        },
+        {
+            "institution": " Higher National Diploma Information Technology",
+            "url": "",
+            "area": "Sri Lanka Institute of Advanced Technological Education (SLIATE)",
+            "studyType": "HND",
+            "startDate": "2021-9-01",
+            "endDate": "2024-04-01"
+        }
+    ],
+    "certificates": [
+        {
+            "name": "Meta Front End Developer",
+            "date": "2024-03-09",
+            "url": "https://coursera.org/verify/professional-cert/7SYUR66SCJH8",
+            "issuer": "Meta"
+        },
+        {
+            "name": "Developing Back-End Apps with Node.js and Express",
+            "date": "2023-12-26",
+            "url": "https://coursera.org/verify/JWEAXT8CWRD5",
+            "issuer": "IBM"
+        }
+    ],
+    "work": [
+        {
+            "name": "Remote (Freelance / Contract)",
+            "position": "Software Engineer",
+            "location_type": "Remote",
+            "location": "LK",
+            "url": "",
+            "startDate": "2025-01-01",
+            "endDate": null,
+            "summary": "Led development of scalable web applications and SaaS platforms as a freelance/contract software engineer.",
+            "highlights": [
+                "Led development of scalable web applications using the RILT stack (React JS, Inertia JS, Laravel, Tailwind CSS, ShadCN UI).",
+                "Developed SmartbillPOS, a SaaS POS system using Laravel and Livewire (TALL stack).",
+                "Built marketing and documentation websites using Astro JS.",
+                "Optimized MySQL queries to improve application performance.",
+                "Configured and managed VPS servers using CloudPanel and set up CI/CD pipelines.",
+                "Implemented SEO strategies to improve website visibility."
+            ],
+            "responsibilities": [],
+            "achievements": [],
+            "skills": {
+                "PHP": "simple-icons:php",
+                "Laravel": "simple-icons:laravel",
+                "React": "mdi:react",
+                "Inertia.js": "simple-icons:inertia",
+                "MySQL": "simple-icons:mysql",
+                "Tailwind": "mdi:tailwind",
+                "Git": "mdi:git",
+                "GitHub": "mdi:github"
+            }
+        },
+        {
+            "name": "Level Web Limited",
+            "position": "Software Engineer",
+            "location_type": "On-site",
+            "location": "Colombo",
+            "url": "https://levelweb.co.uk/",
+            "startDate": "2024-11-01",
+            "endDate": "2025-08-01",
+            "summary": "Led development of scalable web applications using the RILT stack.",
+            "highlights": [
+                "Led development of scalable web applications using the RILT stack (React JS, Inertia JS, Laravel, Tailwind CSS, ShadCN UI).",
+                "Optimized complex MySQL queries, improving database efficiency and reducing query execution time by 25%.",
+                "Designed and implemented key system features ensuring high-quality, responsive web application performance.",
+                "Collaborated closely with the team to meet client requirements and deliver effective, high-performing solutions."
+            ],
+            "responsibilities": [],
+            "achievements": [],
+            "skills": {
+                "PHP": "simple-icons:php",
+                "Laravel": "simple-icons:laravel",
+                "React": "mdi:react",
+                "Inertia.js": "simple-icons:inertia",
+                "MySQL": "simple-icons:mysql",
+                "Tailwind": "mdi:tailwind",
+                "Git": "mdi:git",
+                "GitHub": "mdi:github"
+            }
+        },
+        {
+            "name": "Level Web Limited",
+            "position": "Software Engineer",
+            "location_type": "On-site",
+            "location": "Colombo",
+            "url": "https://levelweb.co.uk/",
+            "startDate": "2024-11-01",
+            "endDate": null,
+            "summary": "Led the development of scalable web applications using the RILT stack.",
+            "highlights": [
+                "Optimized complex MySQL queries, improving database efficiency by 25%.",
+                "Designed and implemented key system features, ensuring high-quality, responsive web application performance.",
+                "Streamlined deployment processes, reducing downtime and enhancing system reliability."
+            ],
+            "responsibilities": [
+                "Developed and maintained backend services using Node.js and Golang.",
+                "Collaborated closely with the team to meet client requirements and deliver effective, high-performing solutions.",
+                "Integrated modern UI components to enhance user experience across platforms."
+            ],
+            "achievements": [
+                "Implemented a cloud drive and verification code system.",
+                "Enhanced system reliability and reduced downtime by streamlining deployment workflows.",
+                "Improved database performance by refactoring core queries, reducing execution times by 30%."
+            ],
+            "skills": {
+                "PHP": "simple-icons:php",
+                "Laravel": "simple-icons:laravel",
+                "React": "mdi:react",
+                "Inertia.js": "simple-icons:inertia",
+                "MySQL": "simple-icons:mysql",
+                "Tailwind": "mdi:tailwind",
+                "Git": "mdi:git",
+                "GitHub": "mdi:github",
+                "Node": "ri:nodejs-line",
+                "WordPress": "ri:wordpress-fill"
+            }
+        },
+        {
+            "name": "IT Starter (Pvt) Ltd",
+            "position": "Associate Full Stack Developer (Part-time)",
+            "location_type": "Remote",
+            "location": "LK",
+            "url": "https://itstarter.cc/",
+            "startDate": "2024-04-01",
+            "endDate": null,
+            "summary": "Played a key role in the development of RILT-based projects and WordPress customizations.",
+            "highlights": [
+                "Completed 95% of project content.",
+                "Optimized MySQL queries for enhanced system performance.",
+                "Improved front-end functionality with responsive design techniques."
+            ],
+            "responsibilities": [
+                "Developed complete pages and integrated user-facing elements with server-side logic.",
+                "Focused on theme customization and SEO optimization for WordPress projects.",
+                "Collaborated with cross-functional teams to ensure seamless project delivery."
+            ],
+            "achievements": [
+                "Ensured smooth project execution.",
+                "Delivered high-quality solutions that met and exceeded client expectations.",
+                "Enhanced system scalability, enabling the platform to support increased user demand."
+            ],
+            "skills": {
+                "PHP": "simple-icons:php",
+                "Laravel": "simple-icons:laravel",
+                "React": "mdi:react",
+                "Inertia.js": "simple-icons:inertia",
+                "MySQL": "simple-icons:mysql",
+                "Tailwind": "mdi:tailwind",
+                "Git": "mdi:git",
+                "GitHub": "mdi:github",
+                "Node": "ri:nodejs-line",
+                "WordPress": "ri:wordpress-fill"
+            }
+        },
+        {
+            "name": "Level Web Limited",
+            "position": "Associate Software Engineer",
+            "location_type": "On-site",
+            "location": "Colombo",
+            "url": "https://levelweb.co.uk/",
+            "startDate": "2024-10-30",
+            "endDate": "2024-05-01",
+            "summary": "Assisted in building responsive web applications using the RILT stack.",
+            "highlights": [
+                "Enhanced internal workflow efficiency by 30%.",
+                "Gained experience in system design, middleware implementation, and optimizing MySQL queries."
+            ],
+            "responsibilities": [
+                "Developed and maintained backend services using Node.js and Golang.",
+                "Contributed to front-end feature development using Tailwind CSS and React."
+            ],
+            "achievements": [
+                "Implemented a cloud drive and verification code system.",
+                "Streamlined access control via dynamic middleware design."
+            ],
+            "skills": {
+                "PHP": "simple-icons:php",
+                "Laravel": "simple-icons:laravel",
+                "React": "mdi:react",
+                "Inertia.js": "simple-icons:inertia",
+                "MySQL": "simple-icons:mysql",
+                "Tailwind": "mdi:tailwind",
+                "Git": "mdi:git",
+                "GitHub": "mdi:github",
+                "Node": "ri:nodejs-line",
+                "WordPress": "ri:wordpress-fill"
+            }
+        },
+        {
+            "name": "IT Starter (Pvt) Ltd",
+            "position": "Full Stack Developer Intern",
+            "location_type": "Remote",
+            "location": "LK",
+            "url": "https://itstarter.cc/",
+            "startDate": "2023-09-01",
+            "endDate": "2024-03-31",
+            "summary": "Contributed to web applications and WordPress projects using RILT stack.",
+            "highlights": [
+                "Completed 95% of project content.",
+                "Worked on SEO optimization resulting in improved website visibility."
+            ],
+            "responsibilities": [
+                "Developed complete pages and integrated user-facing elements with server-side logic.",
+                "Enhanced WordPress functionality through custom plugin development."
+            ],
+            "achievements": [
+                "Ensured smooth project execution.",
+                "Improved user experience by implementing responsive design strategies."
+            ],
+            "skills": {
+                "PHP": "simple-icons:php",
+                "Laravel": "simple-icons:laravel",
+                "React": "mdi:react",
+                "Inertia.js": "simple-icons:inertia",
+                "MySQL": "simple-icons:mysql",
+                "Tailwind": "mdi:tailwind",
+                "Git": "mdi:git",
+                "GitHub": "mdi:github",
+                "Node": "ri:nodejs-line",
+                "WordPress": "ri:wordpress-fill"
+            }
+        }
+    ],
+    "skills": [
+        {
+            "name": "HTML",
+            "icon": "simple-icons:html5",
+            "level": "Intermediate",
+            "keywords": [
+                "Web Development",
+                "Frontend"
+            ]
+        },
+        {
+            "name": "CSS",
+            "icon": "ri:css3-fill",
+            "level": "Intermediate",
+            "keywords": [
+                "Web Development",
+                "Frontend",
+                "Responsive Design"
+            ]
+        },
+        {
+            "name": "JavaScript",
+            "icon": "simple-icons:javascript",
+            "level": "Expert",
+            "keywords": [
+                "Web Development",
+                "Frontend",
+                "Backend",
+                "Fullstack"
+            ]
+        },
+        {
+            "name": "PHP",
+            "icon": "simple-icons:php",
+            "level": "Intermediate",
+            "keywords": [
+                "Web Development",
+                "Backend",
+                "Fullstack"
+            ]
+        },
+        {
+            "name": "Laravel",
+            "icon": "simple-icons:laravel",
+            "level": "Intermediate",
+            "keywords": [
+                "Web Development",
+                "Backend",
+                "PHP",
+                "Fullstack"
+            ]
+        },
+        {
+            "name": "MySQL",
+            "icon": "simple-icons:mysql",
+            "level": "Intermediate",
+            "keywords": [
+                "Databases",
+                "SQL",
+                "Data Storage",
+                "Backend"
+            ]
+        },
+        {
+            "name": "Tailwind",
+            "icon": "mdi:tailwind",
+            "level": "Intermediate",
+            "keywords": [
+                "Web Development",
+                "Frontend",
+                "CSS Framework",
+                "Responsive Design"
+            ]
+        },
+        {
+            "name": "React",
+            "icon": "mdi:react",
+            "level": "Expert",
+            "keywords": [
+                "Web Development",
+                "Frontend",
+                "JavaScript Library",
+                "UI"
+            ]
+        },
+        {
+            "name": "Inertia.js",
+            "icon": "simple-icons:inertia",
+            "level": "Intermediate",
+            "keywords": [
+                "Web Development",
+                "Frontend",
+                "JavaScript Library",
+                "UI"
+            ]
+        },
+        {
+            "name": "LiveWire",
+            "icon": "simple-icons:livewire",
+            "level": "Intermediate",
+            "keywords": [
+                "Web Development",
+                "Frontend",
+                "JavaScript Library",
+                "UI"
+            ]
+        },
+        {
+            "name": "Git",
+            "icon": "mdi:git",
+            "level": "Intermediate",
+            "keywords": [
+                "Version Control",
+                "Collaboration",
+                "Source Code"
+            ]
+        },
+        {
+            "name": "GitHub",
+            "icon": "mdi:github",
+            "level": "Expert",
+            "keywords": [
+                "Version Control",
+                "Collaboration",
+                "Source Code",
+                "Git"
+            ]
+        },
+        {
+            "name": "Node",
+            "icon": "ri:nodejs-line",
+            "level": "Intermediate",
+            "keywords": [
+                "Web Development",
+                "Backend",
+                "JavaScript",
+                "Server"
+            ]
+        },
+        {
+            "name": "WordPress",
+            "icon": "ri:wordpress-fill",
+            "level": "Intermediate",
+            "keywords": [
+                "PHP",
+                "Fullstack",
+                "Frontend"
+            ]
+        },
+        {
+            "name": "MongoDB",
+            "icon": "simple-icons:mongodb",
+            "level": "Intermediate",
+            "keywords": [
+                "Databases",
+                "File",
+                "Data Storage",
+                "Backend"
+            ]
+        },
+        {
+            "name": "Figma",
+            "icon": "simple-icons:figma",
+            "level": "Intermediate",
+            "keywords": [
+                "Design",
+                "UI",
+                "UX"
+            ]
+        },
+        {
+            "name": "cPanel",
+            "icon": "simple-icons:cpanel",
+            "level": "Intermediate",
+            "keywords": [
+                "Web Development",
+                "Hosting",
+                "Server"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Professional"
+        },
+        {
+            "language": "Tamil",
+            "fluency": "Native"
+        },
+        {
+            "language": "Sinhala",
+            "fluency": "Professional"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Technology",
+            "keywords": [
+                "AI",
+                "Blockchain"
+            ]
+        }
+    ],
+    "references": [
+        {
+            "name": "Rameez Muhammadh",
+            "reference": "Rameez is a talented developer who has a strong understanding of the full stack. He is a quick learner and has a great attitude. He is a great team player and is always willing to help others. I would highly recommend Rameez for any development role."
+        }
+    ],
+    "projects": [
+        {
+            "name": "SmartbillPOS \u2013 POS SaaS",
+            "image": {
+                "url": "/smartbillpos.png",
+                "position": "container",
+                "dark": "/smartbillpos.png"
+            },
+            "github": "",
+            "isActive": true,
+            "description": "A multi-tenant SaaS Point-of-Sale platform supporting Retail, Pharmacy, and Restaurant business modes, built with the TALL stack.",
+            "highlights": [
+                "Architected a multi-tenant SaaS POS platform with role-based access control across cashier, manager, and owner roles.",
+                "Built a full-featured POS supporting three business modes \u2014 Retail, Pharmacy, and Restaurant \u2014 with mode-specific workflows such as prescription tracking and table/order management.",
+                "Engineered automated billing and invoicing workflows with tax configuration, discount rules, and payment tracking; built real-time inventory management with low-stock alerts.",
+                "Designed a dynamic reporting dashboard with daily, weekly, and monthly sales summaries, profit/loss breakdowns, and exportable reports."
+            ],
+            "url": "https://www.smartbillpos.com/"
+        },
+        {
+            "name": "Tuition Management System",
+            "image": {
+                "url": "/tms.png",
+                "position": "container",
+                "dark": "/tms.png"
+            },
+            "github": "",
+            "isActive": true,
+            "description": "A comprehensive tuition centre management platform with RFID/QR attendance, SMS notifications, and automated invoicing.",
+            "highlights": [
+                "Developed a full platform supporting student enrolment, class scheduling, fee tracking, and multi-branch administration.",
+                "Implemented dual-mode contactless attendance marking using RFID card scanning and QR code check-in, reducing manual processing time by ~70%.",
+                "Integrated SMS notifications via the Notify.lk API for automated class reminders, fee due dates, and attendance alerts.",
+                "Built an automated invoicing and payment tracking module with overdue fee flagging and tutor payout management."
+            ],
+            "url": ""
+        },
+        {
+            "name": "Gemlox Jewellery Website",
+            "image": {
+                "url": "/gemlox.png",
+                "position": "container",
+                "dark": "/gemlox.png"
+            },
+            "github": "",
+            "isActive": true,
+            "description": "A full-featured jewellery business platform with appointment booking, order management, and automated notifications.",
+            "highlights": [
+                "Implemented user roles and permissions to manage access control across the platform.",
+                "Built an appointment booking system with automated reminders for bookings and order collections.",
+                "Streamlined production workflows by automating collection and appointment notifications, improving efficiency and customer engagement."
+            ],
+            "url": "https://gemlox.co.uk/"
+        },
+        {
+            "name": "Team Comrade",
+            "image": {
+                "url": "/team-comrade.png",
+                "position": "container",
+                "dark": "/team-comrade.png"
+            },
+            "github": "",
+            "isActive": true,
+            "description": "A state-of-the-art tuition management system designed to streamline operations for both administrators and institutes, ensuring efficient student enrollment, attendance tracking, and financial accuracy.",
+            "highlights": [
+                "Contributed to over 45% of the overall development, including designing the home page, implementing student enrolment for 2,500+ students across 6 branches, and automating attendance tracking with RFID cards, reducing  manual tracking efforts by 70%.",
+                "Developed a robust Front Office page with comprehensive functionality for system management, including creating invoices, managing users and expenses, marking tutorial sessions, inviting users, transferring funds,marking attendance, and checking student enrolments.",
+                "Engineered a flexible system supporting both overall admin management and institute-specific management, providing tailored operations similar to a multi-tenant product model. Developed a robust payout functionality for tutors, processing 250+ payouts monthly, and implemented an automated invoice system with payment capabilities, improving financial accuracy by 60%.",
+                "Integrated a notification system using the Notify.lk API to send 10,000+ SMS notifications monthly, including attendance updates and invoices to parents. Built a secure OTP-based authentication system with phone number verification, enhancing user security and accessibility"
+            ],
+            "url": "https://teamcomrade.org/"
+        },
+        {
+            "name": "CQHE",
+            "image": {
+                "url": "/cqhe.png",
+                "position": "container",
+                "dark": "/cqhe.png"
+            },
+            "isActive": true,
+            "description": "An advanced IT management system for a UK-based qualification awarding body, enabling seamless onboarding, certification, and real-time notifications with a focus on automation and efficiency.",
+            "highlights": [
+                "Led the development of a comprehensive IT management system for a UK-based vocational qualification awarding body, including a multi-step onboarding process with middleware for step control, verification, and real-time notifications, reducing manual effort by 65%",
+                "Designed customizable certificate templates and implemented automated PDF generation for certificates and World Education Services (WES) applications, reducing manual effort by 60% and enhancing user satisfaction.",
+                "Developed a dynamic email gateway configuration, an application settings module for system controls, and middleware for maintenance and coming soon modes, streamlining access and authentication,",
+                "Optimized system performance through MySQL query optimization, achieving a 25% reduction in query execution time, and enhanced reliability across core functionalities."
+            ],
+            "url": "https://app.cqhe.org.uk/"
+        },
+        {
+            "name": "Billbook Website",
+            "image": {
+                "url": "/billbook.png",
+                "position": "container",
+                "dark": "/billbook.png"
+            },
+            "isActive": false,
+            "description": "A feature-rich WordPress website tailored for a POS SaaS product, focusing on intuitive design, high performance, and seamless user interaction.",
+            "highlights": [
+                "Designed and developed a WordPress website for a POS SaaS product, prioritizing UI/UX, performance, and SEO optimization.",
+                "Achieved a 30% reduction in page load times, enhancing site speed and user experience.",
+                "Improved user engagement by 10% through intuitive and modern UI design tailored to the target audience.",
+                "Increased organic traffic by 15% with effective on-site SEO techniques, including optimized content and meta tags.   - Utilized tools like Elementor and Yoast SEO to customize the theme, ensuring functionality and visibility."
+            ],
+            "url": "http://billbook.lk/"
+        },
+        {
+            "name": "IT Starter (Pvt) Ltd",
+            "image": {
+                "url": "/itstarter.png",
+                "position": "container",
+                "dark": "/itstarter.png"
+            },
+            "isActive": false,
+            "description": "An SEO-optimized, visually appealing WordPress website showcasing cutting-edge design and functionality, tailored to enhance engagement and boost business growth.",
+            "highlights": [
+                "Developed theme-based WordPress websites, focusing on UI/UX enhancements, performance optimization, and SEO.",
+                "Achieved 20% faster load times, 30% improved user engagement, and 35% growth in organic traffic.",
+                "Leveraged tools like Elementor and Yoast SEO to customize themes and SEO optimize functionality."
+            ],
+            "url": "https://itstarter.cc/"
+        },
+        {
+            "name": "Transfood Lanka (Pvt) Ltd",
+            "image": {
+                "url": "/tflanka.png",
+                "position": "container",
+                "dark": "/tflanka.png"
+            },
+            "isActive": false,
+            "description": "A modernized WordPress website for a Sri Lankan authentic spice export company, crafted to reflect the brand's heritage while optimizing performance and SEO to boost visibility globally.",
+            "highlights": [
+                "Redesigned the WordPress website for a Sri Lankan authentic spice export company, focusing on performance, aesthetic appeal, and SEO.",
+                "Reduced page load time by 35%, enhancing user experience and accessibility.",
+                "Boosted organic traffic by 30% through improved on-site SEO, including optimized content, meta tags, and media.",
+                "Delivered a visually appealing design that reflects the brand’s authenticity and enhances user engagement."
+            ],
+            "url": "https://tflanka.com/"
+        }
     ]
-  },
-  "education": [
-    {
-      "institution": " Higher National Diploma Information Technology",
-      "url": "",
-      "area": "Sri Lanka Institute of Advanced Technological Education (SLIATE)",
-      "studyType": "HND",
-      "startDate": "2021-9-01",
-      "endDate": "2024-04-01"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Meta Front End Developer",
-      "date": "2024-03-09",
-      "url": "https://coursera.org/verify/professional-cert/7SYUR66SCJH8",
-      "issuer": "Meta"
-    },
-    {
-      "name": "Developing Back-End Apps with Node.js and Express",
-      "date": "2023-12-26",
-      "url": "https://coursera.org/verify/JWEAXT8CWRD5",
-      "issuer": "IBM"
-    }
-  ],
-  "work": [
-    {
-      "name": "Level Web Limited",
-      "position": "Software Engineer",
-      "location_type": "On-site",
-      "location": "Colombo",
-      "url": "https://levelweb.co.uk/",
-      "startDate": "2024-11-01",
-      "endDate": null,
-      "summary": "Led the development of scalable web applications using the RILT stack.",
-      "highlights": [
-        "Optimized complex MySQL queries, improving database efficiency by 25%.",
-        "Designed and implemented key system features, ensuring high-quality, responsive web application performance.",
-        "Streamlined deployment processes, reducing downtime and enhancing system reliability."
-      ],
-      "responsibilities": [
-        "Developed and maintained backend services using Node.js and Golang.",
-        "Collaborated closely with the team to meet client requirements and deliver effective, high-performing solutions.",
-        "Integrated modern UI components to enhance user experience across platforms."
-      ],
-      "achievements": [
-        "Implemented a cloud drive and verification code system.",
-        "Enhanced system reliability and reduced downtime by streamlining deployment workflows.",
-        "Improved database performance by refactoring core queries, reducing execution times by 30%."
-      ],
-      "skills": {
-        "PHP": "simple-icons:php",
-        "Laravel": "simple-icons:laravel",
-        "React": "mdi:react",
-        "Inertia.js": "simple-icons:inertia",
-        "MySQL": "simple-icons:mysql",
-        "Tailwind": "mdi:tailwind",
-        "Git": "mdi:git",
-        "GitHub": "mdi:github",
-        "Node": "ri:nodejs-line",
-        "WordPress": "ri:wordpress-fill"
-      }
-    },
-    {
-      "name": "IT Starter (Pvt) Ltd",
-      "position": "Associate Full Stack Developer (Part-time)",
-      "location_type": "Remote",
-      "location": "LK",
-      "url": "https://itstarter.cc/",
-      "startDate": "2024-04-01",
-      "endDate": null,
-      "summary": "Played a key role in the development of RILT-based projects and WordPress customizations.",
-      "highlights": [
-        "Completed 95% of project content.",
-        "Optimized MySQL queries for enhanced system performance.",
-        "Improved front-end functionality with responsive design techniques."
-      ],
-      "responsibilities": [
-        "Developed complete pages and integrated user-facing elements with server-side logic.",
-        "Focused on theme customization and SEO optimization for WordPress projects.",
-        "Collaborated with cross-functional teams to ensure seamless project delivery."
-      ],
-      "achievements": [
-        "Ensured smooth project execution.",
-        "Delivered high-quality solutions that met and exceeded client expectations.",
-        "Enhanced system scalability, enabling the platform to support increased user demand."
-      ],
-      "skills": {
-        "PHP": "simple-icons:php",
-        "Laravel": "simple-icons:laravel",
-        "React": "mdi:react",
-        "Inertia.js": "simple-icons:inertia",
-        "MySQL": "simple-icons:mysql",
-        "Tailwind": "mdi:tailwind",
-        "Git": "mdi:git",
-        "GitHub": "mdi:github",
-        "Node": "ri:nodejs-line",
-        "WordPress": "ri:wordpress-fill"
-      }
-    },
-    {
-      "name": "Level Web Limited",
-      "position": "Associate Software Engineer",
-      "location_type": "On-site",
-      "location": "Colombo",
-      "url": "https://levelweb.co.uk/",
-      "startDate": "2024-10-30",
-      "endDate": "2024-05-01",
-      "summary": "Assisted in building responsive web applications using the RILT stack.",
-      "highlights": [
-        "Enhanced internal workflow efficiency by 30%.",
-        "Gained experience in system design, middleware implementation, and optimizing MySQL queries."
-      ],
-      "responsibilities": [
-        "Developed and maintained backend services using Node.js and Golang.",
-        "Contributed to front-end feature development using Tailwind CSS and React."
-      ],
-      "achievements": [
-        "Implemented a cloud drive and verification code system.",
-        "Streamlined access control via dynamic middleware design."
-      ],
-      "skills": {
-        "PHP": "simple-icons:php",
-        "Laravel": "simple-icons:laravel",
-        "React": "mdi:react",
-        "Inertia.js": "simple-icons:inertia",
-        "MySQL": "simple-icons:mysql",
-        "Tailwind": "mdi:tailwind",
-        "Git": "mdi:git",
-        "GitHub": "mdi:github",
-        "Node": "ri:nodejs-line",
-        "WordPress": "ri:wordpress-fill"
-      }
-    },
-    {
-      "name": "IT Starter (Pvt) Ltd",
-      "position": "Full Stack Developer Intern",
-      "location_type": "Remote",
-      "location": "LK",
-      "url": "https://itstarter.cc/",
-      "startDate": "2023-09-01",
-      "endDate": "2024-03-31",
-      "summary": "Contributed to web applications and WordPress projects using RILT stack.",
-      "highlights": [
-        "Completed 95% of project content.",
-        "Worked on SEO optimization resulting in improved website visibility."
-      ],
-      "responsibilities": [
-        "Developed complete pages and integrated user-facing elements with server-side logic.",
-        "Enhanced WordPress functionality through custom plugin development."
-      ],
-      "achievements": [
-        "Ensured smooth project execution.",
-        "Improved user experience by implementing responsive design strategies."
-      ],
-      "skills": {
-        "PHP": "simple-icons:php",
-        "Laravel": "simple-icons:laravel",
-        "React": "mdi:react",
-        "Inertia.js": "simple-icons:inertia",
-        "MySQL": "simple-icons:mysql",
-        "Tailwind": "mdi:tailwind",
-        "Git": "mdi:git",
-        "GitHub": "mdi:github",
-        "Node": "ri:nodejs-line",
-        "WordPress": "ri:wordpress-fill"
-      }
-    }
-  ],
-  "skills": [
-    {
-      "name": "HTML",
-      "icon": "simple-icons:html5",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend"
-      ]
-    },
-    {
-      "name": "CSS",
-      "icon": "ri:css3-fill",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "JavaScript",
-      "icon": "simple-icons:javascript",
-      "level": "Expert",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "Fullstack"
-      ]
-    },
-    {
-      "name": "PHP",
-      "icon": "simple-icons:php",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "Fullstack"
-      ]
-    },
-    {
-      "name": "Laravel",
-      "icon": "simple-icons:laravel",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "PHP",
-        "Fullstack"
-      ]
-    },
-    {
-      "name": "MySQL",
-      "icon": "simple-icons:mysql",
-      "level": "Intermediate",
-      "keywords": [
-        "Databases",
-        "SQL",
-        "Data Storage",
-        "Backend"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "icon": "mdi:tailwind",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "React",
-      "icon": "mdi:react",
-      "level": "Expert",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
-    },
-    {
-      "name": "Inertia.js",
-      "icon": "simple-icons:inertia",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
-    },
-    {
-      "name": "LiveWire",
-      "icon": "simple-icons:livewire",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
-    },
-    {
-      "name": "Git",
-      "icon": "mdi:git",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
-    },
-    {
-      "name": "GitHub",
-      "icon": "mdi:github",
-      "level": "Expert",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code",
-        "Git"
-      ]
-    },
-    {
-      "name": "Node",
-      "icon": "ri:nodejs-line",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "JavaScript",
-        "Server"
-      ]
-    },
-    {
-      "name": "WordPress",
-      "icon": "ri:wordpress-fill",
-      "level": "Intermediate",
-      "keywords": [
-        "PHP",
-        "Fullstack",
-        "Frontend"
-      ]
-    },
-    {
-      "name": "MongoDB",
-      "icon": "simple-icons:mongodb",
-      "level": "Intermediate",
-      "keywords": [
-        "Databases",
-        "File",
-        "Data Storage",
-        "Backend"
-      ]
-    },
-    {
-      "name": "Figma",
-      "icon": "simple-icons:figma",
-      "level": "Intermediate",
-      "keywords": [
-        "Design",
-        "UI",
-        "UX"
-      ]
-    },
-    {
-      "name": "cPanel",
-      "icon": "simple-icons:cpanel",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Hosting",
-        "Server"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Professional"
-    },
-    {
-      "language": "Tamil",
-      "fluency": "Native"
-    },
-    {
-      "language": "Sinhala",
-      "fluency": "Professional"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Technology",
-      "keywords": [
-        "AI",
-        "Blockchain"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Rameez Muhammadh",
-      "reference": "Rameez is a talented developer who has a strong understanding of the full stack. He is a quick learner and has a great attitude. He is a great team player and is always willing to help others. I would highly recommend Rameez for any development role."
-    }
-  ],
-  "projects": [
-    {
-      "name": "Team Comrade",
-      "image": {
-        "url": "/team-comrade.png",
-        "position": "container",
-        "dark": "/team-comrade.png"
-      },
-      "github": "",
-      "isActive": true,
-      "description": "A state-of-the-art tuition management system designed to streamline operations for both administrators and institutes, ensuring efficient student enrollment, attendance tracking, and financial accuracy.",
-      "highlights": [
-        "Contributed to over 45% of the overall development, including designing the home page, implementing student enrolment for 2,500+ students across 6 branches, and automating attendance tracking with RFID cards, reducing  manual tracking efforts by 70%.",
-        "Developed a robust Front Office page with comprehensive functionality for system management, including creating invoices, managing users and expenses, marking tutorial sessions, inviting users, transferring funds,marking attendance, and checking student enrolments.",
-        "Engineered a flexible system supporting both overall admin management and institute-specific management, providing tailored operations similar to a multi-tenant product model. Developed a robust payout functionality for tutors, processing 250+ payouts monthly, and implemented an automated invoice system with payment capabilities, improving financial accuracy by 60%.",
-        "Integrated a notification system using the Notify.lk API to send 10,000+ SMS notifications monthly, including attendance updates and invoices to parents. Built a secure OTP-based authentication system with phone number verification, enhancing user security and accessibility"
-      ],
-      "url": "https://teamcomrade.org/"
-    },
-    {
-      "name": "CQHE",
-      "image": {
-        "url": "/cqhe.png",
-        "position": "container",
-        "dark": "/cqhe.png"
-      },
-      "isActive": true,
-      "description": "An advanced IT management system for a UK-based qualification awarding body, enabling seamless onboarding, certification, and real-time notifications with a focus on automation and efficiency.",
-      "highlights": [
-        "Led the development of a comprehensive IT management system for a UK-based vocational qualification awarding body, including a multi-step onboarding process with middleware for step control, verification, and real-time notifications, reducing manual effort by 65%",
-        "Designed customizable certificate templates and implemented automated PDF generation for certificates and World Education Services (WES) applications, reducing manual effort by 60% and enhancing user satisfaction.",
-        "Developed a dynamic email gateway configuration, an application settings module for system controls, and middleware for maintenance and coming soon modes, streamlining access and authentication,",
-        "Optimized system performance through MySQL query optimization, achieving a 25% reduction in query execution time, and enhanced reliability across core functionalities."
-      ],
-      "url": "https://app.cqhe.org.uk/"
-    },
-    {
-      "name": "Billbook Website",
-      "image": {
-        "url": "/bilbook.png",
-        "position": "container",
-        "dark": "/bilbook.png"
-      },
-      "isActive": false,
-      "description": "A feature-rich WordPress website tailored for a POS SaaS product, focusing on intuitive design, high performance, and seamless user interaction.",
-      "highlights": [
-        "Designed and developed a WordPress website for a POS SaaS product, prioritizing UI/UX, performance, and SEO optimization.",
-        "Achieved a 30% reduction in page load times, enhancing site speed and user experience.",
-        "Improved user engagement by 10% through intuitive and modern UI design tailored to the target audience.",
-        "Increased organic traffic by 15% with effective on-site SEO techniques, including optimized content and meta tags.   - Utilized tools like Elementor and Yoast SEO to customize the theme, ensuring functionality and visibility."
-      ],
-      "url": "http://billbook.lk/"
-    },
-    {
-      "name": "IT Starter (Pvt) Ltd",
-      "image": {
-        "url": "/itstarter.png",
-        "position": "container",
-        "dark": "/itstarter.png"
-      },
-      "isActive": false,
-      "description": "An SEO-optimized, visually appealing WordPress website showcasing cutting-edge design and functionality, tailored to enhance engagement and boost business growth.",
-      "highlights": [
-        "Developed theme-based WordPress websites, focusing on UI/UX enhancements, performance optimization, and SEO.",
-        "Achieved 20% faster load times, 30% improved user engagement, and 35% growth in organic traffic.",
-        "Leveraged tools like Elementor and Yoast SEO to customize themes and SEO optimize functionality."
-      ],
-      "url": "https://itstarter.cc/"
-    },
-    {
-      "name": "Transfood Lanka (Pvt) Ltd",
-      "image": {
-        "url": "/tflanka.png",
-        "position": "container",
-        "dark": "/tflanka.png"
-      },
-      "isActive": false,
-      "description": "A modernized WordPress website for a Sri Lankan authentic spice export company, crafted to reflect the brand's heritage while optimizing performance and SEO to boost visibility globally.",
-      "highlights": [
-        "Redesigned the WordPress website for a Sri Lankan authentic spice export company, focusing on performance, aesthetic appeal, and SEO.",
-        "Reduced page load time by 35%, enhancing user experience and accessibility.",
-        "Boosted organic traffic by 30% through improved on-site SEO, including optimized content, meta tags, and media.",
-        "Delivered a visually appealing design that reflects the brand’s authenticity and enhances user engagement."
-      ],
-      "url": "https://tflanka.com/"
-    }
-  ]
 }
