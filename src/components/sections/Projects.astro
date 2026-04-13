@@ -7,7 +7,7 @@ import { Image } from "astro:assets";
 ---
 
 <Section className={Astro.props.className} title="Projects">
-  <div class="grid grid-cols-1 gap-3 md:grid-cols-2 print:flex print:flex-col">
+  <div class="columns-1 gap-3 md:columns-2 print:flex print:flex-col">
     {
       projects.map(
         ({ url, description, highlights, name, isActive, github, image }) => {
@@ -17,7 +17,7 @@ import { Image } from "astro:assets";
             <div
               role="contentinfo"
               class:list={[
-                "project-container grid-span-1 group relative flex min-h-80 flex-col overflow-hidden rounded-md bg-skin-button-muted/50 p-5 shadow-sm ring-1 ring-skin-muted",
+                "project-container grid-span-1 group relative mb-3 flex break-inside-avoid flex-col overflow-hidden rounded-md bg-skin-button-muted/50 p-5 shadow-sm ring-1 ring-skin-muted",
               ]}
             >
               {isBackgroundImage && (
